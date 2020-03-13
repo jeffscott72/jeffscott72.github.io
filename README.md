@@ -7,6 +7,17 @@
 ---
 
 **bold**
+
 *italics*
- My github webpage
+
+My github webpage
+ 
  `code`
+ ```javascript
+ var s = "JavaScript syntax highlighting";
+ alert(s);
+ ```
+ ```python
+ s = "Python syntax highlight"
+ print s
+ ```
